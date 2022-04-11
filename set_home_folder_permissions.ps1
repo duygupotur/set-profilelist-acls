@@ -1,4 +1,4 @@
-# C:\users\test\Documents\test.ps1
+# C:\users\test\Documents\set_home_folder_permissions.ps1
 # Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 function set-regedit-acls {
